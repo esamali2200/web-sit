@@ -1,0 +1,25 @@
+body{ background-color: rgb(58, 12, 12);
+
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.esam{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center; 
+ font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.hal{
+    border: 3px solid rgb(255, 227, 70);
+width: 100%; 
+;
+}
